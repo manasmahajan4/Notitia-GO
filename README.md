@@ -7,9 +7,9 @@
 * Pokemon GYM & Pokestop
 * PokeStop & Items
 
-![](screenshots/Screenshot_1.png)
-![](screenshots/Screenshot_2.png)
-![](screenshots/Screenshot_3.png)
+![](screenshots/Screenshot_1.jpg)
+![](screenshots/Screenshot_2.jpg)
+![](screenshots/Screenshot_3.jpg)
 
 ## Disclaimer
 
