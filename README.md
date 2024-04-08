@@ -1,6 +1,5 @@
 # Notitia GO - A Detailed Pokemon GO Guide 
 (July 2016)
-
 ## Features
 
 * Catching & Evolving Pokemons
